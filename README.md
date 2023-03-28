@@ -16,7 +16,16 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlsgk2016)](https://solved.ac/dlsgk2016)
 
-</div>    
+</div>
+<div class="tech-badge">
+  <h3>:books: Tech Stack :books:</h3>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+</div>
+  
+<div class="tools-badge">
+  <h3>🛠: tools Stack 🛠</h3>
+</div>
+  
 </div>
 
 <!--
