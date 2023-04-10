@@ -31,7 +31,7 @@
 </div>
   
 <div class="tools-badge">
-  <h3>🛠: ools Stack 🛠</h3>
+  <h3>🛠: Tools Stack 🛠</h3>
   <img src="https://img.shields.io/badge/Eclipse IDE-525C86?style=flat&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
