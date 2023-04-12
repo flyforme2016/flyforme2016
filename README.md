@@ -1,6 +1,6 @@
 <div class="container" align="center">
 <div class="header">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ADC8FF&height=200&section=header&text=WELCOM&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ADC8FF&height=200&section=header&text=WELCOME&fontSize=90" />
 </div>
 <div class="github-status">
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) -->
