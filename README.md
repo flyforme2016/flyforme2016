@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ADC8FF&height=200&section=header&text=WELCOME&fontSize=90" align="left" style="width: 100%" />
 
-# Welcome to my Github👋  
+# 👋 Welcome to my Github 👋  
 
 안녕하세요, 지적 호기심을 바탕으로 깊이 있게 학습하여 꾸준히 성장하는 개발자 김기정 입니다!</br>
 A developer who consistently grows by deeply delving into learning with intellectual curiosity!
 
-   ### 👀 Visit my porfolio [![Notion Badge](https://img.shields.io/badge/-Here-black?logo=notion&logoColor=white&link=https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)](https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)    
+   ### 👀 Visit my porfolio [![Notion Badge](https://img.shields.io/badge/-Here-black?logo=notion&logoColor=white&link=https://www.notion.so/Kim-GiJeong-aca8a709e05b4c428fba98585c0e52ac)](https://www.notion.so/Kim-GiJeong-aca8a709e05b4c428fba98585c0e52ac)    
    ## 🤙contact me with [![mail badge](https://img.shields.io/badge/-Here-03C75A?logo=naver&logoColor=white&link=mailto:prkim99@naver.com)](mailto:prkim99@naver.com)
 <br/>
 
