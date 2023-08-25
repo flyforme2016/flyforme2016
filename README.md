@@ -3,8 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ADC8FF&height=200&section=header&text=WELCOME&fontSize=90" />
   </div>
   
-  <a href="https://github.com/Eungyeol41"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=flyforme2016&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SOKURI's github stats" /></a>
-  <a href="https://github.com/Eungyeol41"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyforme2016&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
+  <a href="https://github.com/Eungyeol41"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=flyforme2016&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="SOKURI's github stats" /></a>
+  <a href="https://github.com/Eungyeol41"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyforme2016&theme=tokyonight&layout=compact&hide_border=true&" /></a> 
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlsgk2016)](https://solved.ac/dlsgk2016)
   
