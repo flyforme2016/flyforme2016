@@ -6,8 +6,10 @@
 <div align="center">  
 <table >
   <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=flyforme2016&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="height: 100%" />
+    <td valign="top" width="50%" height="0">
+      <div style="height:100%">
+        <img src="https://github-readme-stats.vercel.app/api?username=flyforme2016&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left"/>
+      </div>
     </td>
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyforme2016&hide_border=true&layout=compact" align="left" style="width: 95%" />
