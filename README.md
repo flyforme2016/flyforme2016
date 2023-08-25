@@ -3,13 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ADC8FF&height=200&section=header&text=WELCOME&fontSize=90" />
   </div>
 
-  <div class="git-stats>
-    <h2>:octocat: Git Stats :octocat:</h2>
+  <div class="git-stats">
+    <h2>😾 Git Stats 😾</h2>
     <a href="https://github.com/Eungyeol41"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=flyforme2016&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SOKURI's github stats" /></a>
     <a href="https://github.com/Eungyeol41"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyforme2016&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
   </div>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlsgk2016)](https://solved.ac/dlsgk2016)
+
+  <div class="solved-ac">
+    <h2>🏆 Solved-Ac Tier 🏆</h2>
+    <a href="http://solved.ac/dlsgk2016"><img src="http://mazassumnida.wtf/api/generate_badge?boj=dlsgk2016" /></>
+  </div>
   
   <div class="tech-badge">
     <h2>:books: Tech Stack :books:</h2>
