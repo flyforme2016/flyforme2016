@@ -4,7 +4,8 @@
 
 안녕하세요, 지적 호기심을 바탕으로 깊이 있게 학습하여 꾸준히 성장하는 개발자 김기정 입니다!</br>
 A developer who consistently grows by deeply delving into learning with intellectual curiosity!
-<br/>
+<br/> 
+<br/> 
 
 ## <div >✨ Personal History ✨</div>  
 
