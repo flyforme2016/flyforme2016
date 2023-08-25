@@ -1,5 +1,16 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ADC8FF&height=200&section=header&text=WELCOME&fontSize=90" align="left" style="width: 100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ADC8FF&height=200&section=header&text=WELCOME&fontSize=90" align="left" style="width: 100%" />
 
+## <div >✨ Personal History ✨</div>  
+
+- 🎓 B.S. Computer Engineering in Inha Univ, Korea
+  
+- 🎙️ President of F.L.EX, street dance club in Inha-univ
+  
+- 💙 Samsung Software Academy For Youth 9th
+
+- 🌱 I’m currently learning Micro Service Architecture(MSA) and Docker CI/CD  
+  
+<br/>
 
 ## 🛠 My Skill Set 🛠
 <table>
