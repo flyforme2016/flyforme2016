@@ -6,7 +6,7 @@
 ## Github Stats  
 <div align="center">  <table ><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=flyforme2016&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=flyforme2016&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 95%" />
 
 </td><td valign="top" width="50%">
 
